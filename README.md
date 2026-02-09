@@ -37,10 +37,10 @@ The application is **deployed on Streamlit** for easy access and sharing.
 
 ---
 ## 📁 Project Structure
--├── app.py # Main Streamlit application
--├── requirements.txt # Python dependencies
--├── README.md # Project documentation
--├── runtime.tx
+- ├── app.py # Main Streamlit application
+- ├── requirements.txt # Python dependencies
+- ├── README.md # Project documentation
+- ├── runtime.tx
 ---
 
 ## ⚙️ Installation & Setup (Local)
