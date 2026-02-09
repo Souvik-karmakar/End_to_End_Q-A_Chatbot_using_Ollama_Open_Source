@@ -25,6 +25,10 @@ You need to:
 2. Run your Ollama server locally:  
    ```bash
    ollama serve
+   
+## 👀 Screenshots
+
+![Chat Interface](chat_interface.png)
 
 ## 🛠️ Tech Stack
 
